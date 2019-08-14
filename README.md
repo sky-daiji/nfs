@@ -3,8 +3,8 @@
 ---
 ### 克隆本项目到本地并创建
 ```
-git clone xxx
-cd nfs\nfs-storageclass
+git clone https://github.com/happinesslijian/nfs.git
+cd nfs/nfs-storageclass
 kubectl apply -f .
 ``` 
 ### 验证：
