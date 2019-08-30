@@ -1,4 +1,4 @@
-# nfs
+# [nfs安装](https://github.com/happinesslijian/install-nfs)
 ## k8s使用NFS做持久化动态存储
 ---
 ### 克隆本项目到本地并创建
